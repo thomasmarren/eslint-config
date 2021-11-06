@@ -1,0 +1,29 @@
+{
+  "name": "eslint-config",
+  "version": "1.0.0",
+  "description": "ESLint config",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.31.0",
+    "@typescript-eslint/parser": "^2.31.0",
+    "eslint": "^7.0.0",
+    "eslint-plugin-react": "^7.19.0",
+    "eslint-plugin-react-hooks": "^4.1.0",
+    "eslint-plugin-security": "^1.4.0",
+    "typescript": "^3.7.5"
+  },
+  "peerDependencies": {
+    "@typescript-eslint/eslint-plugin": "^2.31.0",
+    "@typescript-eslint/parser": "^2.31.0",
+    "eslint": "^7.0.0",
+    "eslint-plugin-react": "^7.19.0",
+    "eslint-plugin-react-hooks": "^4.1.0",
+    "eslint-plugin-security": "^1.4.0",
+    "typescript": "^3.7.5"
+  }
+}
